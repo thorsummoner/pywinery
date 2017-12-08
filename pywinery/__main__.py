@@ -19,7 +19,7 @@ import sys
 import os.path
 import logging
 
-from . import wineVersion, Main, logger
+from pywinery import wineVersion, Main, logger
 
 if __name__ == "__main__":
     logger.addHandler(logging.StreamHandler())

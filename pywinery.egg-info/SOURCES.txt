@@ -1,0 +1,11 @@
+README.rst
+pywinery.desktop
+pywinery/__init__.py
+pywinery/__main__.py
+pywinery/exceptions.py
+pywinery/gui.glade
+pywinery/pywinery.svg
+pywinery.egg-info/PKG-INFO
+pywinery.egg-info/SOURCES.txt
+pywinery.egg-info/dependency_links.txt
+pywinery.egg-info/top_level.txt

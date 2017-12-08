@@ -1,0 +1,3 @@
+import pywinery
+
+pywinery()

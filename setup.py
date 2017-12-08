@@ -28,5 +28,4 @@ setup(name         = 'pywinery',
                                     ]),
             ('/usr/share/applications', ["pywinery.desktop"]),
                      ],
-      scripts      = ['scripts/pywinery']
       )

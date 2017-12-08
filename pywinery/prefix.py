@@ -1,0 +1,10 @@
+is_path_prefix
+action_prefix_for_path
+handle_commandline
+gui_start
+current_prefix
+action_prefix_changed
+action_gui_executables
+aux_separator_func
+gui_prefix
+handle_config_response
